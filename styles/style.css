@@ -91,7 +91,7 @@ body {
 }
 
 .apresentacao__imagem {
-  width: 30%;
+  width: 40%;
   border-radius: 25px;
   box-shadow: var(--cor-terciaria) 0px 1px 3px 0px,
     var(--cor-terciaria) 0px 0px 0px 1px;
@@ -121,5 +121,8 @@ body {
   }
   .apresentacao__conteudo {
     width: auto;
+  }
+  .apresentacao__imagem {
+    width: 50%;
   }
 }
